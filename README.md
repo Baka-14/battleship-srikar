@@ -1,1 +1,1 @@
-Program for the battleship tournament in univeristy 
+Program for the Battleship tournament in univeristy 
